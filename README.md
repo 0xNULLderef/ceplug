@@ -1,4 +1,4 @@
-# 🚨🚨🚨 <span style="color:red">WANING</span> 🚨🚨🚨
+# 🚨🚨🚨 WANING 🚨🚨🚨
 DO NOT USE THIS PROJECT AS IT IS CURSED AND HOT GARBAGE.
 
 # Portal 2: Community Edition plugin support for linux
